@@ -41,7 +41,6 @@
 
 <p align="center">
   <img src="assets/shadow-monarch.png" alt="Profile Screenshot" width="200"/>
-  <img src="assets/sung.png" alt="Solo Leveling" width="200"/>
 </p>
 
 ---
