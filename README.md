@@ -1,7 +1,7 @@
 # ⚔️ Solo Leveling Productivity App
 
 <p align="center">
-  <img src="assets/sung.png" alt="Solo Leveling" width="400"/>
+  <img src="https://private-user-images.githubusercontent.com/191919962/442469330-e7ff1b5d-cd48-4aff-bd84-5622ccd30e8e.png" alt="Solo Leveling" width="400"/>
 </p>
 
 ---
